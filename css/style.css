@@ -1,1 +1,17 @@
 /*style.css*/
+body{
+	text-align: center;;
+	background-color: #666666;
+	position: relative;
+}
+.imagesR{
+	height: 170px;
+	background-color: #888888;
+	width:1000px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	/* vertical-align: center; */
+	line-height: 170px;
+	padding-top: 5px;
+}

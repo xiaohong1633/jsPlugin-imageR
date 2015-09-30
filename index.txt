@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>图片跑马灯插件</title>
-</head>
-<body>
-图片跑马灯插件
-<body>
-</html>
