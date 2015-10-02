@@ -15,3 +15,9 @@ body{
 	line-height: 170px;
 	padding-top: 5px;
 }
+td{
+	padding:0;	
+}
+tr{
+	padding:0;	
+}
